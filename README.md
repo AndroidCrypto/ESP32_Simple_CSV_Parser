@@ -3,7 +3,7 @@ The simple CSV Parser allows to extract data from a CSV file obtained from the W
 
 It is a supplementary project and article for other articles regarding [Meteomatics.com](https://www.meteomatics.com/) to keep them shorter. The final code of this parser is used in my projects "" and "" (links comin soon).
 
-This is the accompanying repository for my article "How to parse a Meteomatics.com Weather Forecast CSV file with an ESP32" available here:
+This is the accompanying repository for my article "**How to parse a Meteomatics.com Weather Forecast CSV file with an ESP32**" available here:
 
 ## Runtime Environment
 ````plaintext
